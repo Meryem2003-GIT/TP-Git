@@ -1,0 +1,14 @@
+# Fonction pour calculer la somme des éléments d'une liste
+def calculer_somme(liste):
+    return sum(liste)
+
+# Exemple d'utilisation
+if __name__ == "__main__":
+    # Liste de nombres
+    nombres = [1, 2, 3, 4, 5]
+
+    # Calcul de la somme
+    somme = calculer_somme(nombres)
+
+    # Affichage du résultat
+    print(f"La somme des éléments de la liste est : {somme}")

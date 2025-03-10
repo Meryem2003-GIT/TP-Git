@@ -12,3 +12,4 @@ if __name__ == "__main__":
 
     # Affichage du résultat
     print(f"La somme des éléments de la liste est : {somme}")
+//modifff
